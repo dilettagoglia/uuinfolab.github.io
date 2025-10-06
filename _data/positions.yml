@@ -21,11 +21,12 @@
       requirements: "Databases, Data Mining (required), Mining of Social Data, graph algorithsm, data engineering courses (meriting)"
       contact: "Matteo Magnani"
       
-    - title: "When and why Emotional Manipulative Language (EML) is effective?"
+    - title: "When and why is Emotional Manipulative Language (EML) effective?"
       status: "open"
-      description: "This project integrates NLP, temporal network analysis, and action detection to study the dynamics of Emotional Manipulative Language (EML) in social communication. Conversational data from dyads or small groups will be transcribed and represented as temporal text networks, where nodes are utterances and speakers, and edges model conversational flow. A pretrained EML detection model will label manipulative utterances, while an action detection model will assess whether manipulative attempts lead to compliance, enabling the distinction between manipulative intent and effectiveness. The resulting signed networks will capture successful versus resisted influence, allowing us to analyze who manipulates whom, which strategies succeed, and how manipulation evolves over time. The outcome is a computational pipeline for tracing manipulation at scale, with implications for social science, security, and digital well-being."
+      description: "This project integrates NLP, temporal network analysis, and action detection to study the dynamics of Emotional Manipulative Language (EML) in social communication. Conversational data from dyads or small groups will be represented as temporal text networks, where nodes are utterances and speakers, and edges model conversational flow. A pretrained EML detection model will label manipulative utterances, while an action detection model will assess whether manipulative attempts lead to compliance, enabling the distinction between manipulative intent and effectiveness. The resulting signed networks will capture successful versus resisted influence, allowing us to analyze who manipulates whom, which strategies succeed, and how manipulation evolves over time. The outcome is a computational pipeline for tracing manipulation at scale, with implications for social science, security, and digital well-being."
       requirements: "Data Mining, Mining of Social Data (meriting)"
       contact: "Diletta Goglia"
+      url: "https://docs.google.com/document/d/11DlgxqtJ0C55oOzlc7NYDwIX9pc-RPRvJueYzM9uc-I/edit?usp=sharing"
 
     - title: "Is the best, the best? Analysing best-paper awardees’ career trajectories"
       status: "open"
